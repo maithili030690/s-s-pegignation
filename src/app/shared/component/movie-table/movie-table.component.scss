@@ -1,0 +1,31 @@
+.dashboard-container{
+    max-width: 90%;
+    margin:0 auto;
+    
+    color:#fff;
+    text-align: center;
+}
+table{
+    background-color: #1e1e1e;
+    color:#fff;
+}
+
+th{
+    background-color: #292929;
+    color:#fff;
+    font-size: 18px;
+}
+td{
+    color:#fff;
+}
+tr:hover{
+    background-color: #333;
+    cursor: pointer;
+}
+.mat-paginator{
+    background-color: #1e1e1e!important;
+    color: #fff !important;
+}
+::ng-deep .mat-select-value{
+    color:#fff!important;
+}
